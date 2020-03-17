@@ -1,3 +1,7 @@
+'Usercountry', 'Nrreviews','Nrhotelreviews','Helpfulvotes','Score','Periodofstay',
+          'Travelertype','Pool','Gym','Tenniscourt','Spa','Casino','Freeinternet',
+                 'Hotelname','Hotelstars','Nrrooms','Usercontinent','Memberyears',
+          'Reviewmonth','Reviewweekday'
 233,11,4,13,5,582,715,0,1,0,0,0,1,3367,3,3773,1245,9,730,852
 233,119,21,75,3,582,844,0,1,0,0,0,1,3367,3,3773,1245,3,730,607
 233,36,9,25,5,628,810,0,1,0,0,0,1,3367,3,3773,1245,2,832,845
